@@ -1,0 +1,3 @@
+pip install streamlit groq langchain chromadb
+pip install streamlit groq langchain chromadb tiktoken
+pip install faiss-cpu
